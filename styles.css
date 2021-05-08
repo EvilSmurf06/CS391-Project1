@@ -1,0 +1,76 @@
+body {
+  margin-top: 10%;
+  margin-left: 20%;
+  background-image: url("https://cdn.mos.cms.futurecdn.net/C5P9P8vwkybwR2Gh7NkxfV-970-80.jpg.webp");
+  font-family: 'Itim', cursive;
+  font-size: 1.2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 100%;
+}
+
+.place {
+  margin-bottom: 5%;
+  margin-right: 5%;
+  height: 25px;
+  width: 100%;
+  border-radius: 15px;
+  border-style: solid;
+}
+
+.register {
+  flex: 33.33%;
+  padding: 5px;
+  background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  width: 50%;
+}
+
+.image {
+  flex: 33.33%;
+  text-align: right;
+}
+
+.blank {
+  flex: 33.33%;
+}
+
+.row {
+  display: flex;
+}
+
+.game {
+  float: right;
+}
+
+#rgstr_btn, #log_in {
+  background-color: #bac7a7;
+  padding: 10px 20px 20px 20px;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  margin-right: 65%;
+}
+
+#rgstr_btn:hover, #log_in:hover {
+  background-color: #0f1021;
+  color: #bac7a7;
+}
+
+#log, #regi {
+  background-color: #0f1021;
+  color: white;
+  padding: 10px 20px 20px 20px;
+  border: none;
+  border-radius: 15px;
+}
+
+#log:hover, #regi:hover {
+  background-color: #bac7a7;
+  color: #0f1021;
+}
