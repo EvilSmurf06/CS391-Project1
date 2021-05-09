@@ -58,5 +58,5 @@ No need for additional libraries.
 1. Utku Özkan: homepage.html, openpage.html, homepage.css, openpage.css, moba.html , battleroyal.html, rts.html, readmore.js
 2. Muhammed Fatih Emecan: register.html, login.html, login.js, styles.css, register.js
 3. Volkan Burhan Çebi: Desing of game pages, fps.html, tps.html, openworld.html, games.css, README.md
-4. Hamdi Umut Arıkan:
+4. Hamdi Umut Arıkan: Images and soundtracks
 
